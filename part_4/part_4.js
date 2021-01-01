@@ -8,11 +8,16 @@ return 'YES' if the parentheses in the input string are balanced,
 return 'NO' if the parentheses in the input string are not balanced,. 
 
 */
-
+// if the bb input === double input=> true لازم ال input يكون زوجي 
 console.log('PART 4');
 
 const isABalancedString = () => {
-  // WRITE YOUR CODE BELOW THIS LINE
+  const bb =("")
+  if (bb===){
+return "YES"
+  }else{
+    return "NO"
+  }
 };
 
 /*
