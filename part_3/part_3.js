@@ -35,6 +35,8 @@ correct the current  obj  in component  بعدل على obj بالكومبننت
 
 Q7) List three thing you can use to create a responsive web application.
 
+safe and secure
+good database
 
 Q8) Name two of mongoose middle-wares and explain what they are used for
 
