@@ -10,7 +10,9 @@ Q1) Why do we use joins in SQL?
 
 Q2) Name three types of relationships in databases.
  
-1.
+one to one
+one to many
+many to many
 
 Q3) What are the main three sections of a JWT?
 
@@ -44,7 +46,8 @@ Q8) Name two of mongoose middle-wares and explain what they are used for
 
 Q9) What is the difference between authentication and authorization?
 
-
+authentication => authenticated the user (check if its same informatin)
+authorization =>(give access)
 
 Q10) Why do we save some information as an environment variable (in .env file)?
 
