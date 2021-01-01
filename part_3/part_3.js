@@ -7,6 +7,7 @@ Type the correct answer below each question:
 Q1) Why do we use joins in SQL?
 
 
+
 Q2) Name three types of relationships in databases.
 
 
